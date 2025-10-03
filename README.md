@@ -1,5 +1,3 @@
-# Muhammad_Talha_
-DATA SCIENCE PORTFOLIO
 # 👋 Hi, I'm Talha Muhammad  
 
 🚀 **Aspiring Data Scientist | Python Enthusiast | AI Learner**  
@@ -33,5 +31,7 @@ Here are some of my featured projects:
 - **LinkedIn**: [Your LinkedIn Profile Link]  
 
 ---
+
+⭐️ Check out my repositories and feel free to connect!  
 
 ⭐️ Check out my repositories and feel free to connect!  
